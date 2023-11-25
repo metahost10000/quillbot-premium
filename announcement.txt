@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TELEGRAM_GROUP",
+    "title": "👬 Join telegram group",
+    "content": "Please Rate Us 5-Stars & Review for Extra Warranty",
+    "ignorable": true,
+    "links": [
+      {
+        "href": "https://t.me/metatechhub001",
+        "text": "Join Now!"
+      }
+    ]
+  }
+]
